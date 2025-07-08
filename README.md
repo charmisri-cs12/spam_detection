@@ -1,0 +1,2 @@
+Email Spam Detection is a machine learning project that classifies emails as spam or ham using models like Naive Bayes and SVM. It involves data preprocessing, TF-IDF vectorization, and model evaluation using accuracy and confusion matrix. The project also includes data visualization with bar plots and word clouds. It achieves over 90% accuracy, making it suitable for real-world integration.
+Skills applied: Text preprocessing, TF-IDF, Scikit-learn, Data visualization, Model evaluation
